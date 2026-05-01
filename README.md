@@ -4,8 +4,8 @@ A minimal, production-ready expense tracker with a **Node.js/Express** backend a
 
 ## Live Application
 
-- **Frontend**: [Deployed URL — add after deployment]
-- **Backend API**: [Deployed URL — add after deployment]
+- **Frontend**: [https://fenmo-expense-tracker-seven.vercel.app/](https://fenmo-expense-tracker-seven.vercel.app/)
+- **Backend API**: [https://fenmo-expense-tracker-etky.onrender.com](https://fenmo-expense-tracker-etky.onrender.com)
 
 ---
 
